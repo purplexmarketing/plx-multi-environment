@@ -18,7 +18,7 @@ $plx_multienv_template_dev = <<<PLX
  * Development environment config settings
  *
  * @package    PLX Multi-Environments
- * @version    1.0
+ * @version    1.0.2
  * @author     Purplex <matt@plx.mk>
  */
 

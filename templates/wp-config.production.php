@@ -17,7 +17,7 @@ $plx_multienv_template_prod = '<?php
  * Production environment config settings
  *
  * @package    PLX Multi-Environments
- * @version    1.0
+ * @version    1.0.2
  * @author     Purplex <matt@plx.mk>
  */
 
